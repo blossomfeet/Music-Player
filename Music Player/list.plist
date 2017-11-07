@@ -32,5 +32,79 @@
 		<key>albumArtwork</key>
 		<string>demo3.jpg</string>
 	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Suzuki</string>
+		<key>albumName</key>
+		<string>Basic 1</string>
+		<key>songName</key>
+		<string>Stomp only</string>
+		<key>albumArtwork</key>
+		<string>demo3.jpg</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Suzuki</string>
+		<key>albumName</key>
+		<string>Basic 1</string>
+		<key>songName</key>
+		<string>Shaku only</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Suzuki</string>
+		<key>albumName</key>
+		<string>Basic 1</string>
+		<key>songName</key>
+		<string>Stomp and Shaku full</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Suzuki</string>
+		<key>albumName</key>
+		<string>Basic 2</string>
+		<key>songName</key>
+		<string>Slow Ten</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Suzuki</string>
+		<key>albumName</key>
+		<string>Basic 5</string>
+		<key>songName</key>
+		<string>Irish Walking 4x</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Suzuki</string>
+		<key>albumName</key>
+		<string>Basic 5</string>
+		<key>songName</key>
+		<string>Fast Walking</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Suzuki</string>
+		<key>albumName</key>
+		<string>Basic 5</string>
+		<key>songName</key>
+		<string>Shinnai Nagashi (Slow Walks)</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Suzuki</string>
+		<key>albumName</key>
+		<string>Basic 5</string>
+		<key>songName</key>
+		<string>Mutt Stomp</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Suzuki</string>
+		<key>albumName</key>
+		<string>Basic 6</string>
+		<key>songName</key>
+		<string>Basic 6</string>
+	</dict>
 </array>
 </plist>
